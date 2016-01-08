@@ -1,7 +1,7 @@
 Simon's Stamp Collection App
 -----
 
-# About Simon Stamp's
+# About Simon's Stamps
 
 
 Simon has a wide variety of stamps. Particularly some expensive and exotic Japanese ones.  
